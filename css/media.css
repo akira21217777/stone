@@ -1,0 +1,259 @@
+
+@media(max-width:947px){
+    .test{
+        border: none;
+        display: flex;
+    }
+    .test1{
+        border: none;
+        display: flex;
+    }
+
+
+}
+@media(max-width:977px){
+    .test{
+        border: none;
+        display: flex;
+    }
+    .test1{
+        border: none;
+        display: flex;
+    }
+
+
+} 
+
+@media(max-width:989px){
+    .test{
+        border: none;
+        display: flex;
+    }
+    .test1{
+        border: none;
+        display: flex;
+    }
+
+
+} 
+
+@media(max-width:991px){
+    .test{
+        border: none;
+        display: flex;
+    }
+    .test1{
+        border: none;
+        display: flex;
+    }
+
+
+} 
+
+@media(max-width:608px){
+ .slider_text h1{
+     font-size: 40px;
+ }
+ .slider_text h2{
+     font-size: 30px;
+ }
+ .slider_text p::before {
+    content: '';
+    width: 58px;
+    height: 2px;
+    background: white;
+    display: flex;
+    margin: auto;
+    margin-top: 18px;
+    margin-bottom: 12px;
+ }
+ 
+ .carousel-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 59px;
+}
+
+.slider_text p {
+    color: white;
+    margin-bottom: 32px;
+    font-size: 18px;
+}
+}
+
+
+@media(max-width:1007px){
+    .slider_text h1{
+        font-size: 40px;
+    }
+    .slider_text h2{
+        font-size: 30px;
+    }
+    .slider_text p::before {
+       content: '';
+       width: 58px;
+       height: 2px;
+       background: white;
+       display: flex;
+       margin: auto;
+       margin-top: 18px;
+       margin-bottom: 12px;
+    }
+    
+    .carousel-box {
+       position: relative;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       padding: 59px;
+   }
+   
+   .slider_text p {
+       color: white;
+       margin-bottom: 32px;
+       font-size: 18px;
+   }
+   .navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 18px;
+}
+   }
+   
+   @media(max-width:1458px){
+       .navbar{
+        padding-bottom: 18px;
+       }
+   }
+   
+   @media(max-width:1743px){
+       .navbar{
+           padding-bottom: 19px;
+       }
+   }
+   
+   @media(max-width:320px){
+    .test {
+     padding: 15px;
+    }
+    
+    .container-fluid{
+        display: flex;
+        flex-direction: column;
+    }
+    
+   }
+   
+   @media(max-width:284px){
+    .container-fluid{
+        display: flex;
+        align-content: flex-start;
+    }
+    
+   }  
+   
+   @media(max-width:712px){
+       .slayder-box h1 {
+           font-size: 35px;
+           justify-content: center;
+           width: 307px;
+           display: flex;
+       }
+       .slayder-box p{
+            justify-content: center;
+       width: 160px;
+       }
+      
+    }
+    
+    @media(max-width:369px){
+    .slayder-box h1 {
+        font-size: 20px;
+        justify-content: center;
+        width: 155px;
+        display: flex;
+    }
+    
+    .slayder-box p {
+        justify-content: center;
+        width: 160px;
+        font-size: 11px;
+    }
+}
+
+@media(max-width:1047px){
+    .design h2 {
+        color: #C7AA8B;
+        font-size: 47px;
+        width: 963px;
+        margin: auto;
+    }
+}
+
+@media(max-width:1020px){
+    .design h2 {
+        color: #C7AA8B;
+        font-size: 47px;
+        width: 686px;
+        margin: auto;
+    }
+}
+
+@media(max-width:7777px){
+.design h2 {
+    color: #C7AA8B;
+    font-size: 40px;
+    width: 635px;
+    margin: auto;
+}
+}
+
+@media(max-width:685px){
+.design h2 {
+    color: #C7AA8B;
+    font-size: 30px;
+    width: 294px;
+    margin: auto;
+}
+}
+
+@media(max-width:987px){
+    .test12 .cer {
+        display: flex;
+        justify-content: space-evenly;
+        padding-top: 46px;
+        flex-direction: column;
+    }
+    footer .container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+}
+
+@media(max-width:396px){
+    .test12 p {
+        color: #4D4D4D;
+        font-size: 13px;
+        width: 338px;
+    }
+    
+}
+
+@media(max-width:396px){
+    .test12 p {
+        color: #4D4D4D;
+        font-size: 10px;
+        width: 110px;
+    }
+    
+}
+
+
